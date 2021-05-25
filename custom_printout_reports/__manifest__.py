@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': "Custom Printout Reports",
-    'version': '1.0.0',
+    'version': '14.0.0',
     'author': 'Developer',
     'category': 'Reports',
     'summary': 'Print Module to handle specific Reports',
